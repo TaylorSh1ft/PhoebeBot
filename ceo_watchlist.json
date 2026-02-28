@@ -1,0 +1,166 @@
+{
+  "people": [
+    {
+      "name": "Jensen Huang",
+      "company": "NVIDIA Corporation",
+      "ticker": "NVDA",
+      "twitter": "@jensenhuang",
+      "source": "portfolio"
+    },
+    {
+      "name": "Mike Wirth",
+      "company": "ExxonMobil",
+      "ticker": "XOM",
+      "twitter": null,
+      "source": "portfolio"
+    },
+    {
+      "name": "John P. S. dela Cruz",
+      "company": "Rum Brands Inc",
+      "ticker": "RUM",
+      "twitter": null,
+      "source": "portfolio"
+    },
+    {
+      "name": "Elon Musk",
+      "company": "Tesla, Inc",
+      "ticker": "TSLA",
+      "twitter": "@elonmusk",
+      "source": "portfolio"
+    },
+    {
+      "name": "John W. Pritchard",
+      "company": "Kuhlman Industries, Inc",
+      "ticker": "KULR",
+      "twitter": null,
+      "source": "portfolio"
+    },
+    {
+      "name": "James J. Knauf",
+      "company": "Temasek Holdings",
+      "ticker": "TEM",
+      "twitter": null,
+      "source": "portfolio"
+    },
+    {
+      "name": "John J. G. Sperzel",
+      "company": "Ventas",
+      "ticker": "VST",
+      "twitter": "@JohnSperzel",
+      "source": "portfolio"
+    },
+    {
+      "name": "Sundar Pichai",
+      "company": "Alphabet Inc",
+      "ticker": "GOOGL",
+      "twitter": "@sundarpichai",
+      "source": "portfolio"
+    },
+    {
+      "name": "Scott Siders",
+      "company": "Palo Alto Networks",
+      "ticker": "PANW",
+      "twitter": "@ScottSiders",
+      "source": "portfolio"
+    },
+    {
+      "name": "Andy Jassy",
+      "company": "Amazon.com, Inc",
+      "ticker": "AMZN",
+      "twitter": "@AndyJassy",
+      "source": "portfolio"
+    },
+    {
+      "name": "Michael H. Cowpland",
+      "company": "CrowdStrike",
+      "ticker": "CRWD",
+      "twitter": null,
+      "source": "portfolio"
+    },
+    {
+      "name": "Greg Rayburn",
+      "company": "Hain Celestial Group",
+      "ticker": "HL",
+      "twitter": "@GregRayburn",
+      "source": "portfolio"
+    },
+    {
+      "name": "Dheeraj Pandey",
+      "company": "New Gold Inc",
+      "ticker": "NGD",
+      "twitter": null,
+      "source": "portfolio"
+    },
+    {
+      "name": "Christopher M. Nutt",
+      "company": "L3Harris Technologies",
+      "ticker": "LHX",
+      "twitter": "@ProfNutt",
+      "source": "portfolio"
+    },
+    {
+      "name": "John H. G. S",
+      "company": "IBP Inc",
+      "ticker": "IBP",
+      "twitter": null,
+      "source": "portfolio"
+    },
+    {
+      "name": "Warren Buffett",
+      "company": "",
+      "ticker": "",
+      "twitter": "@WarrenBuffett",
+      "source": "market_mover"
+    },
+    {
+      "name": "Jamie Dimon",
+      "company": "",
+      "ticker": "",
+      "twitter": "@JamieDimon",
+      "source": "market_mover"
+    },
+    {
+      "name": "Larry Fink",
+      "company": "",
+      "ticker": "",
+      "twitter": "@larryfink",
+      "source": "market_mover"
+    },
+    {
+      "name": "Tim Cook",
+      "company": "",
+      "ticker": "",
+      "twitter": "@TimCook",
+      "source": "market_mover"
+    },
+    {
+      "name": "Satya Nadella",
+      "company": "",
+      "ticker": "",
+      "twitter": "@SatyaNadella",
+      "source": "market_mover"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "company": "",
+      "ticker": "",
+      "twitter": "@markzuckerberg",
+      "source": "market_mover"
+    },
+    {
+      "name": "Jeff Bezos",
+      "company": "",
+      "ticker": "",
+      "twitter": "@Bezos",
+      "source": "market_mover"
+    },
+    {
+      "name": "Carl Icahn",
+      "company": "",
+      "ticker": "",
+      "twitter": "@CarlIcahn",
+      "source": "market_mover"
+    }
+  ],
+  "ts": 1771606875.939581
+}
